@@ -1,6 +1,7 @@
 #Laravel demo
 
-`vagrant box add laravel/homestead`
+1) `vagrant box add laravel/homestead`
 
-Add in hosts file:
-192.168.10.10 homestead.app
+2) Add in hosts file: 192.168.10.10 homestead.app
+
+3) 'php artisan key:generate'
